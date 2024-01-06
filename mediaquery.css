@@ -1,4 +1,4 @@
-@charset "uTF-8";
+@charset "UTF-8";
 
 /*pequenas telas: até 600px
 celular: de 600px até 768px
@@ -12,6 +12,7 @@ grandes telas: acima de 1200px */
     }
     section#login{
         width: 80vw;
+        height: 350px;
     }
 
     section#login > div#imagen{
@@ -32,6 +33,7 @@ grandes telas: acima de 1200px */
     }
     section#login{
         width: 80vw;
+        height: 350px;
     }
 
     section#login > div#imagen{
